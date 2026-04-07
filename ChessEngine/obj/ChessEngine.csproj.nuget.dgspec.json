@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROJEKTY\\ChessEngine\\ChessEngine\\ChessEngine.csproj": {}
+    "D:\\PROJEKTY\\ChessEngine\\chess-engine\\ChessEngine\\ChessEngine.csproj": {}
   },
   "projects": {
-    "D:\\PROJEKTY\\ChessEngine\\ChessEngine\\ChessEngine.csproj": {
+    "D:\\PROJEKTY\\ChessEngine\\chess-engine\\ChessEngine\\ChessEngine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJEKTY\\ChessEngine\\ChessEngine\\ChessEngine.csproj",
+        "projectUniqueName": "D:\\PROJEKTY\\ChessEngine\\chess-engine\\ChessEngine\\ChessEngine.csproj",
         "projectName": "ChessEngine",
-        "projectPath": "D:\\PROJEKTY\\ChessEngine\\ChessEngine\\ChessEngine.csproj",
+        "projectPath": "D:\\PROJEKTY\\ChessEngine\\chess-engine\\ChessEngine\\ChessEngine.csproj",
         "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJEKTY\\ChessEngine\\ChessEngine\\obj\\",
+        "outputPath": "D:\\PROJEKTY\\ChessEngine\\chess-engine\\ChessEngine\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
